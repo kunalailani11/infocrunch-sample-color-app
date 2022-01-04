@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.color-box-container {
+    padding: 20px;
+}
+.color-box {
+    width: 50px;
+    border-radius: 50%;
+    height: 50px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
